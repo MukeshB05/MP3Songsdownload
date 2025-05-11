@@ -129,7 +129,7 @@ app.get("/", (req, res) => {
     <div class="form-container">
     <div class="info-div">
     <h1>MUKESH Music 4U MP3 Metadata Embedder<span style="font-size: 14px; color: #b3b3b3;"> (made by MUKESH)</span></h1>
-    <a href="https://instagram.com/kkxstream" target="_blank" title="instagram" style="text-decoration: none;">
+    <a href="https://instagram.com/dreamlyfive" target="_blank" title="instagram" style="text-decoration: none;">
     <i class="ri-instagram-fill" style="font-size: 36px; color: #b3b3b3;"></i>
 </a>
 
